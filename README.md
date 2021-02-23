@@ -1,7 +1,7 @@
 # word-analyzer
 
 #### Preview
-[logo]: https://raw.githubusercontent.com/RaviDhoriya/word-analyzer/master/public/preview.png
+[logo]: https://raw.githubusercontent.com/RaviDhoriya/word-analyzer/master/public/preview.png "Word Analyzer Preview"
 
 1. Clone project to local directory.
 
