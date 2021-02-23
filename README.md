@@ -1,8 +1,9 @@
 # word-analyzer
 
 #### Preview
-[logo]: https://raw.githubusercontent.com/RaviDhoriya/word-analyzer/master/public/preview.png "Word Analyzer Preview"
+![](https://raw.githubusercontent.com/RaviDhoriya/word-analyzer/master/public/preview.png)
 
+#### Setup Project
 1. Clone project to local directory.
 
 &nbsp;`git clone https://github.com/RaviDhoriya/word-analyzer.git`
